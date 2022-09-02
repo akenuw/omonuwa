@@ -1,0 +1,24 @@
+body{
+    background: orange;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+footer p{
+    text-align: center;
+}
+h2{
+    text-align: left;
+    color: whitesmoke;
+}
+a{
+    transform: scale(1.2);
+    transition: .4s;
+    text-decoration: none;
+}

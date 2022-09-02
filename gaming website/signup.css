@@ -1,0 +1,12 @@
+body{
+    background: radial-gradient(#f9d349,20%, #d57e12);
+}
+h1{
+    text-align: center;
+    color: black;
+}
+div{
+  text-align: center;
+  font-family: impact;
+  font-weight:100;
+}
